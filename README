@@ -1,0 +1,10 @@
+CaronteFW es un framework para PHP creado bajo la direccio de Cesar Casas.
+Esta pensado para PHP 5.2 >, y MySQL 5.0>
+
+Es un framework mas de los tantos que existen en PHP, pero con algunas mejoras a la hora de escribir app rapidas, estables y sobre todo, seguras.
+El FW en si no es nada sin el modelo APP, es por eso que sugiero caronteApp, una app vacia para poder empezar.
+
+Estare estableciendo la documentacio en http://cesarcasas.com.ar , en la seccion CaronteFW.
+
+Doy credito por la base del FrameWork a Demian Rodriguez, Oscar Gentileza, Andres Gatinoni y Facundo Mendez, los pionero en el framework en que esta basado, el viejo y querido "Frame MTeam".
+
