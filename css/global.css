@@ -1,0 +1,28 @@
+/**       
+*	Estilos básicos
+*/
+html {
+	margin:0;
+	padding:0;
+}
+div:focus { outline:0; }
+table {
+	empty-cells:show;
+	border-collapse:collapse;
+}
+div, form, object {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+textarea, input, select {
+	margin:0px;
+	padding:0px;
+}
+textarea { overflow:auto; }
+fieldset { margin:0; }
+img	{
+	margin:0px;
+	border:0px;
+}
+
